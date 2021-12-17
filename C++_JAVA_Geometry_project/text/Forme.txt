@@ -1,0 +1,8 @@
+[Compose=[Forme:Type=3,Deja_Appartenant=1,Couleur=1,( 0, 0),( 0, 1),( 1, 0),( 1, 1)][Compose=[Forme:Type=2,Deja_Appartenant=1,Couleur=1,( 2, 3),1.000000]]]
+[Forme:Type=2,Deja_Appartenant=1,Couleur=1,( 2, 3),1.000000]
+[Forme:Type=3,Deja_Appartenant=1,Couleur=1,( 0, 0),( 0, 1),( 1, 0),( 1, 1)]
+[Forme:Type=1,Deja_Appartenant=0,Couleur=0,( 2, 3),( 4, 3)]
+[Compose=[Forme:Type=3,Deja_Appartenant=1,Couleur=1,( 0, 0),( 0, 1),( 1, 0),( 1, 1)][Compose=[Forme:Type=2,Deja_Appartenant=1,Couleur=1,( 2, 3),1.000000]]]
+[Forme:Type=2,Deja_Appartenant=1,Couleur=1,( 2, 3),1.000000]
+[Forme:Type=3,Deja_Appartenant=1,Couleur=1,( 0, 0),( 0, 1),( 1, 0),( 1, 1)]
+[Forme:Type=1,Deja_Appartenant=0,Couleur=0,( 2, 3),( 4, 3)]
